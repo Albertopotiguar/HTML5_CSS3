@@ -50,8 +50,6 @@ main a:hover {
     color: var(--cor4);
 }
 
-
-
 body{
    background-color:var(--cor0);
    font-family: var(--fonte-padrao);   
